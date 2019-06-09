@@ -1,0 +1,6 @@
+﻿  Parallel.cpp
+c:\users\thehe\desktop\parallel comp\main\parallel\parallel\parallel.cpp(395): warning C4244: 'initializing': conversion from 'cl_ulong' to 'double', possible loss of data
+c:\users\thehe\desktop\parallel comp\main\parallel\parallel\parallel.cpp(460): warning C4244: 'initializing': conversion from 'cl_ulong' to 'double', possible loss of data
+c:\users\thehe\desktop\parallel comp\main\parallel\parallel\parallel.cpp(531): warning C4244: 'initializing': conversion from 'cl_ulong' to 'double', possible loss of data
+c:\users\thehe\desktop\parallel comp\main\parallel\parallel\parallel.cpp(602): warning C4244: 'initializing': conversion from 'cl_ulong' to 'double', possible loss of data
+  Parallel.vcxproj -> C:\Users\thehe\Desktop\parallel comp\main\Parallel\x64\Debug\Parallel.exe
